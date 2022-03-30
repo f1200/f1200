@@ -1,7 +1,5 @@
 - 👋 Hi, I’m <h1>البارون</h>
-- <h3> قبل كل شيء تابعني</h3>
-
-# Welcome To My Github <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+مرحبا بك<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="center"><a href="https://github.com/hekelpro"><img src="https://avatars.githubusercontent.com/u/62897038?v=4" height='195' alt="hekelpro profile">
 <a href="https://github.com/hekelpro"><img title="hekelpro" src="https://github-readme-stats.vercel.app/api?username=hekelpro&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
 <a href="https://github.com/hekelpro"><img title="hekelpro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekelpro&layout=compact&theme=nightowl"></a><br>
