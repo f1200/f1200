@@ -11,9 +11,9 @@
 <details align="right" dir"rtl">
   <summary><b>تواصل معي</b></summary><br>
 
-  - <a href="https://www.youtube.com/c/BaronCodeS"/><img alt="قناتي" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><b>اشترك الان</b></a><br>
-  - <a href="https://t.me/adowat"/><img alt="قناة التلغرام" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /><b>نواصل الان</b></a><br>
-  - <a href="https://instagram.com/b3o_b"/><img alt="انستغرام بارون" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><b>تابعني</b></a>
+  - <a href="https://www.youtube.com/c/BaronCodeS"/><img alt="قناتي" align="right" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><b>اشترك الان</b></a><br>
+  - <a href="https://t.me/adowat"/><img alt="قناة التلغرام" align="right" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /><b>نواصل الان</b></a><br>
+  - <a href="https://instagram.com/b3o_b"/><img alt="انستغرام بارون" align="right" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><b>تابعني</b></a>
   </p>
 </details>
 
